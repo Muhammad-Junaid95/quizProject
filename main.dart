@@ -146,7 +146,7 @@ void science() {
     {
       "question": "Which of the following is not a primary color?",
       "options": ["Red", "Green", "Blue", "Yellow"],
-      "answer": "Yellow",
+      "answer": "Green",
     },
     {
       "question": "Endothermic reactions are those in which?",
